@@ -11,3 +11,5 @@ ladlsldsldlsdsmdsd
 sdsdd
 
 ![Ghost Drawing](/img/untitled_artwork.jpg "A Spooky Ghost")
+
+Some more text below
